@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name a-tp)(type KiCad)(uri /home/pdp7/dev/oshpark/a-tp)(options "")(descr ""))
+  (lib (name twinpeaks)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
